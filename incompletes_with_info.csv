@@ -1,0 +1,468 @@
+﻿ID de respuesta;Comuna;Actividad (Estamento);Campus donde trabaja o estudia;Otro, ¿cuál?;A continuación elija una de estas opciones para indicar su dirección;Calle;Número;Calle.1;Intersección;Modo de viaje;Distance;Dir;number
+29133344.0;;Estudiante;;;1.0;;;;;transit;Error in distance;False;False
+29114732.0;Santiago;Funcionario;;Alameda 406;1.0;Avenida Libertador Bernardo O'higgins;406;;;transit;Error in distance;True;False
+29116099.0;;Funcionario;;;1.0;Raimundo Monvoisin ;1800;;;walking;Error in distance;True;False
+29114580.0;Puente Alto;Funcionario;;;1.0;Av. Las Nieves Oriente;2516;;;transit;Error in distance;True;True
+29116234.0;Lo Barnechea;Estudiante;;;1.0;Los portones de la Dehesa;1562;;;driving;Error in distance;True;True
+29139003.0;Lo Barnechea;Estudiante;;;1.0;El Roquerio ;2033;;;driving;Error in distance;True;True
+29139039.0;Macul;Estudiante;;;1.0;Nicomedes Guzmán;5310;;;transit;Error in distance;True;True
+29142096.0;La Florida;Funcionario;;;1.0;Santa Clara ;9696;;;transit;Error in distance;True;True
+29143323.0;;Estudiante;;Ñuble, Chillan Viejo;1.0;20 de agosto;251;;;walking;Error in distance;True;True
+29139567.0;;Funcionario;;;1.0;Carmen;77;;;walking;Error in distance;True;
+29115377.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;False;False
+29115802.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;False;False
+29116017.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VII región;1.0;;;;;transit;Not found;False;False
+29118614.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;False;False
+29121584.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;False;False
+29139065.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;False;False
+29139089.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;False;False
+29139467.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;False;False
+29142732.0;;Estudiante;Campus Oriente UC;;1.0;;;;;transit;Not found;False;False
+29152116.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VII Region del Maule ;1.0;;;;;transit;Not found;False;False
+29153235.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;loncoche, IX región;1.0;;;;;transit;Not found;False;False
+29114740.0;Buin;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29115025.0;Colina;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Santa Inés de Miraflores ;D-11;;;transit;Not found;True;False
+29115104.0;Lo Barnechea;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;True;False
+29115118.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;VII Región;1.0;El Naranjal ;33;;;transit;Not found;True;False
+29115443.0;Las Condes;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29115586.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Francisco Silva ;1510;;;transit;Not found;True;False
+29115591.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;San martin ;29;;;transit;Not found;True;False
+29115651.0;Quilicura;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29115771.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Los cuatro silos;13B;;;transit;Not found;True;False
+29116356.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;PASAJE GLORIAS NAVALES ;Block 1666, dpto 201;;;transit;Not found;True;False
+29116495.0;Vitacura;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Arturo  Matte;;;;driving;Not found;True;False
+29116818.0;Melipilla;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Condominio Las Lomas;Parcela 52;;;transit;Not found;True;False
+29117124.0;Maipú;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Avenida Américo Vespucio;642;;;transit;Not found;True;False
+29118432.0;Talagante;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Avenida Peñaflor parcelación las perdices #9;sin número;;;transit;Not found;True;False
+29118882.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Séptima región, Talca ;1.0;Calle las rastras, camino al cerro ;22;;;transit;Not found;True;False
+29121631.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Viña del Mar;1.0;Conguillio ;106;;;transit;Not found;True;False
+29121806.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;la reina sur A ;49BO ;;;transit;Not found;True;False
+29126040.0;Curacaví;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;camino la mina ;parcela 20-i;;;transit;Not found;True;False
+29133418.0;Las Condes;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29139009.0;La Reina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29139026.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Alberto Valenzuela Llanos;1169-3A;;;transit;Not found;True;False
+29139050.0;Peñalolén;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino Nido de Aguilas;360-B Casa 3;;;transit;Not found;True;False
+29139069.0;Providencia;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29139070.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino al cerro int;28-a;;;transit;Not found;True;False
+29139408.0;La Reina;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Vicente Perez Rosales;;;;transit;Not found;True;False
+29139793.0;Lampa;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Lo castro;Parcela 19, casa 2;;;transit;Not found;True;False
+29140231.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Rosa Serrano de Ruiz Tagle, Condominio Algarrobal 2;Z92;;;transit;Not found;True;False
+29140444.0;Lo Barnechea;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29140492.0;Cerro Navia;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Ramon Angel Jara ;2130;;;transit;Not found;True;False
+29140711.0;Pirque;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;True;False
+29141036.0;Lo Barnechea;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;True;False
+29141344.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino Macul ;Sitio 2-B;;;transit;Not found;True;False
+29141682.0;;Académico;Campus Villarrica UC - Pontificia Universidad Católica de Chile;;1.0;Colo Colo;410;;;driving;Not found;True;False
+29141898.0;Puente Alto;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29142093.0;María Pinto;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Callejon lirano, los rulos;S/n;;;transit;Not found;True;False
+29144182.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;VIII región del Bio Bio;1.0;Av San Pedro del Valle ;1895;;;driving;Not found;True;False
+29144765.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Avenida Padre Sergio Correa;12.000;;;transit;Not found;True;False
+29152061.0;Las Condes;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Roberto López Meneses ;1372;;;driving;Not found;True;False
+29152538.0;Las Condes;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;True;False
+29152538.0;Las Condes;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;;;;;transit;Not found;True;False
+29152777.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29152777.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;;;;;transit;Not found;True;False
+29152810.0;;Estudiante;Campus Oriente UC;;1.0;Ejercito Libertador 37755;Casa: 45;;;transit;Not found;True;False
+29154347.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Lo Pinto;sin número;;;transit;Not found;True;False
+29154365.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino La Luna;17;;;transit;Not found;True;False
+29154800.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Aveces en Las Condes ;1.0;El potrerillo ;50;;;transit;Not found;True;False
+29114504.0;La Florida;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Santa Teresa de Los Andes ;2658;;;driving;Not found;True;True
+29114559.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;dinamarca;1690;;;driving;Not found;True;True
+29114567.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Los Changos;215;;;transit;Not found;True;True
+29114789.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pablo Buchard;1905;;;walking;Not found;True;True
+29114810.0;;Funcionario;Campus Oriente UC;;1.0;Manuel Bulnes;77;;;transit;Not found;True;True
+29114834.0;Maipú;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Reino Unido ;281;;;transit;Not found;True;True
+29114869.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje La Cima;4371;;;driving;Not found;True;True
+29114877.0;;Funcionario;Campus Oriente UC;;1.0;Santa Virginia;2260;;;transit;Not found;True;True
+29114945.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Los cipreces;40;;;transit;Not found;True;True
+29115029.0;Melipilla;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Ugalde;103;;;transit;Not found;True;True
+29115046.0;Vitacura;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;LAS VEGAS;8468;;;driving;Not found;True;True
+29115107.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Requínoa;1.0;Villa Francia, calle parís;37;;;transit;Not found;True;True
+29115121.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje Belén Oriente;200;;;transit;Not found;True;True
+29115124.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Nueva Central ;4142;;;transit;Not found;True;True
+29115134.0;X Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;pasaje 3;1;;;transit;Not found;True;True
+29115339.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Peten;336;;;transit;Not found;True;True
+29115434.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Petrohue;9043;;;transit;Not found;True;True
+29115468.0;V Región;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;América;467;;;transit;Not found;True;True
+29115520.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;XVI Región de Ñuble;1.0;Barros Luco;608;;;transit;Not found;True;True
+29115550.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;comuna de San Felipe;1.0;tocornal;4600;;;transit;Not found;True;True
+29115559.0;VI Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Andes;456;;;transit;Not found;True;True
+29115572.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Puyuhuapi ;485;;;transit;Not found;True;True
+29115592.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El liquidambar;144;;;transit;Not found;True;True
+29115662.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El Valle;8130;;;driving;Not found;True;True
+29115673.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;IV - La Serena;1.0;Avenida Gabriela Mistral;2851;;;transit;Not found;True;True
+29115760.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Parque Horno Pirén Norte;8960;;;transit;Not found;True;True
+29115835.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Avenida Viña del Mar;75;;;transit;Not found;True;True
+29115874.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El escorial;8123;;;driving;Not found;True;True
+29115892.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Bludenz;4857;;;driving;Not found;True;True
+29115966.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Los Sauces;12490;;;transit;Not found;True;True
+29115971.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;La Verbena;3811;;;driving;Not found;True;True
+29116027.0;Talagante;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Camino Carampangue;72;;;transit;Not found;True;True
+29116187.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Liquidambar;515;;;transit;Not found;True;True
+29116195.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Irarrázabal;640;;;transit;Not found;True;True
+29116217.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;II Region de Antofagasta;1.0;Pasaje Rupanco ;1755;;;transit;Not found;True;True
+29116372.0;Independencia;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Palermo;1527;;;transit;Not found;True;True
+29116373.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Ibiza ;5668;;;transit;Not found;True;True
+29116377.0;Peñaflor;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Rupanco;1327;;;transit;Not found;True;True
+29116421.0;Talagante;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino Lonquén sur;47;;;transit;Not found;True;True
+29116434.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;San Carlos ;1266;;;transit;Not found;True;True
+29116457.0;VI Región;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Calle Miranda;205;;;transit;Not found;True;True
+29116498.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Don bosco;27;;;transit;Not found;True;True
+29116724.0;Buin;Funcionario;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Villaseca;853;;;transit;Not found;True;True
+29116805.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;viii región Biobío ;1.0;Los avellanos;194;;;transit;Not found;True;True
+29116819.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;Arica;1.0;Joaquín Toesca;2345;;;transit;Not found;True;True
+29116822.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;camino del solar;11288;;;transit;Not found;True;True
+29116823.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Bocaccio;663;;;transit;Not found;True;True
+29117119.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;monroe ;8317;;;driving;Not found;True;True
+29117141.0;;Académico;Campus Oriente UC;;1.0;Melchor Concha y Toro ;24;;;driving;Not found;True;True
+29117482.0;VI Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Los Arándanos;116;;;transit;Not found;True;True
+29117492.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Valle poniente;991;;;transit;Not found;True;True
+29117574.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;ponce de leon;1620;;;walking;Not found;True;True
+29117614.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje 27 de abril ;1739;;;transit;Not found;True;True
+29118277.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;norte chico poniente;1541;;;transit;Not found;True;True
+29118457.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;av del parque ;68;;;transit;Not found;True;True
+29118504.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Arturo pratt ;560;;;transit;Not found;True;True
+29118585.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;pasaje 9;5767;;;transit;Not found;True;True
+29118783.0;;Académico;Campus Oriente UC;;1.0;Gabriel D Annunzio ;7232;;;driving;Not found;True;True
+29118974.0;VI Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;La Vinilla;1712;;;transit;Not found;True;True
+29119590.0;El Monte;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Avenida Libertadores;1507;;;transit;Not found;True;True
+29120307.0;X Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Portal del mar;2810;;;walking;Not found;True;True
+29122322.0;Peñaflor;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pedro correa;606;;;transit;Not found;True;True
+29122334.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El cañadon ;300;;;transit;Not found;True;True
+29122499.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El Porvenir;10;;;transit;Not found;True;True
+29124943.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje Río Grey ;4992;;;driving;Not found;True;True
+29136784.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Los carpinteros;10116;;;transit;Not found;True;True
+29137889.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Rinconada de auco;144;;;transit;Not found;True;True
+29138999.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VIII Bio Bio Tomé;1.0;Tegualda;1841;;;transit;Not found;True;True
+29139004.0;X Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Volcan Lascar;1230;;;transit;Not found;True;True
+29139022.0;Lo Barnechea;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Golf de Manquehue ;9146;;;transit;Not found;True;True
+29139051.0;San José de Maipo;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino al Volcán;39565;;;transit;Not found;True;True
+29139053.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Séptima región ;1.0;10 norte;1628;;;transit;Not found;True;True
+29139054.0;Peñaflor;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Universo;2096;;;transit;Not found;True;True
+29139062.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VII Región del Maule, Comuna de Talca;1.0;3 Norte;760;;;walking;Not found;True;True
+29139079.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Brisas del Raco;260;;;transit;Not found;True;True
+29139109.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;VIII Región ;1.0;Los Maitenes ;40;;;transit;Not found;True;True
+29139137.0;X Región;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Valdivieso;140;;;walking;Not found;True;True
+29139193.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El Abeto ;8416;;;transit;Not found;True;True
+29139397.0;;Funcionario;Campus Oriente UC;;1.0;EL PARRON;407;;;transit;Not found;True;True
+29139417.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Araucanía, Temuco (pandemia, hogar familiar);1.0;Pasaje Frankfurt;1171;;;transit;Not found;True;True
+29139460.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Grumete Miranda;8179;;;transit;Not found;True;True
+29139575.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Coppelia;2633;;;transit;Not found;True;True
+29139759.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Los Maitenes;11903;;;driving;Not found;True;True
+29139833.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Curaco;1854;;;transit;Not found;True;True
+29139897.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Av. Paine Lonquén ;8992;;;driving;Not found;True;True
+29140233.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El Coirón;10642;;;transit;Not found;True;True
+29140261.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Quebrada alto de Nogales;139;;;transit;Not found;True;True
+29140277.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;pasaje la aguada ;2587;;;walking;Not found;True;True
+29140282.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Avendia Independencia;801;;;transit;Not found;True;True
+29140454.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino El Alto;18200;;;driving;Not found;True;True
+29140501.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;XVI Ñuble, Chillán;1.0;Los Peumos;513;;;transit;Not found;True;True
+29140509.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Lo Salinas;48;;;driving;Not found;True;True
+29140531.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Almirante Barroso;363;;;transit;Not found;True;True
+29140559.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El Boldal;219;;;transit;Not found;True;True
+29140913.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Las nevadas ;2984;;;driving;Not found;True;True
+29140933.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;palpal;10975;;;walking;Not found;True;True
+29140965.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Santa Cecilia;56;;;driving;Not found;True;True
+29141217.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;maule;1.0;31 y media oriente;3574;;;transit;Not found;True;True
+29141360.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Av. Guanaco Norte #1752 ;66;;;transit;Not found;True;True
+29141446.0;Padre Hurtado;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Santa Teresita;185;;;transit;Not found;True;True
+29141594.0;Isla de Maipo;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Av. San Antonio de Naltahua;6609;;;transit;Not found;True;True
+29141687.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Quilpue;1.0;Freire;119;;;transit;Not found;True;True
+29141761.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;antu;2409;;;walking;Not found;True;True
+29141795.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;IV Región, La Serena;1.0;Los viñedos;4831;;;transit;Not found;True;True
+29142212.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Alberto Magno;1405;;;walking;Not found;True;True
+29142324.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;los veleros ;4634;;;driving;Not found;True;True
+29142782.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Biarritz;1945;;;transit;Not found;True;True
+29142874.0;Talagante;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Los Húsares, Parque Doña Javiera;28;;;transit;Not found;True;True
+29144083.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;El sauce, las brisas de Chicureo ;4000;;;transit;Not found;True;True
+29144699.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;1.0;Pasaje Cerro Tronador;2470;;;transit;Not found;True;True
+29144886.0;Isla de Maipo;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;San Pedro ;384;;;transit;Not found;True;True
+29145349.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Viena ;311;;;transit;Not found;True;True
+29146263.0;VI Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;32 oriente;1580;;;transit;Not found;True;True
+29146992.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;San Francisco ;632;;;transit;Not found;True;True
+29147864.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;av santa rosa ;15781;;;transit;Not found;True;True
+29148438.0;La Florida;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;terranova;1249;;;transit;Not found;True;True
+29152177.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje Holanda ;7670;;;driving;Not found;True;True
+29152206.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;creusa;539;;;transit;Not found;True;True
+29152209.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;14 oriente ;414;;;transit;Not found;True;True
+29152229.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;de la plata;2218;;;transit;Not found;True;True
+29152246.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;San Venancio;3336;;;driving;Not found;True;True
+29152297.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Ugalde ;32;;;transit;Not found;True;True
+29152373.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;los hibiscus;18;;;transit;Not found;True;True
+29152430.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Del Bosque;835;;;transit;Not found;True;True
+29152460.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Ñuble;1.0;Rucalhue;1025;;;walking;Not found;True;True
+29152489.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Parinacota;262;;;transit;Not found;True;True
+29152557.0;Colina;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;La Viña;1060;;;driving;Not found;True;True
+29152578.0;La Florida;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Costa Rica;8925;;;transit;Not found;True;True
+29152665.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Mar Rojo;8275;;;transit;Not found;True;True
+29152860.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;volcan yates ;483;;;transit;Not found;True;True
+29152861.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Los cristianos;2954;;;transit;Not found;True;True
+29153067.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Progreso ;1073;;;transit;Not found;True;True
+29153079.0;San Joaquín;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Santa Paola;3162;;;transit;Not found;True;True
+29153218.0;Peñaflor;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Pasaje el Flamenco;1551;;;transit;Not found;True;True
+29153336.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Central ;1758;;;walking;Not found;True;True
+29153385.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Las Arañas ;2313;;;transit;Not found;True;True
+29154687.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;La Montura;7413;;;driving;Not found;True;True
+29116284.0;Ñuñoa;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Avenida Libertador Bernardo O'higgins;340;;;walking;Not found;True;
+29118266.0;Buin;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Camino Buin Maipo;2815;;;transit;Not found;True;
+29118472.0;San Miguel;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;1.0;Ventura Blanco Viel ;1140;;;transit;Not found;True;
+29139378.0;Puente Alto;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;1.0;Profesor Alcaino ;1041;;;transit;Not found;True;
+29154835.0;;Estudiante;Campus Villarrica UC - Pontificia Universidad Católica de Chile;;1.0;Avenida Estacion ;block 584 dpto 202;;;walking;Not found;True;
+29114672.0;;Funcionario;;Concepción;2.0;;;Montriou;Lautaro;transit;Error in distance;True;
+29115999.0;Ñuñoa;Funcionario;;Teatro UC (Plaza ñuñoa);2.0;;;Montenegro;Echeñique;walking;Error in distance;True;
+29116949.0;La Reina;Académico;;;2.0;;;Vicente Pérez Rosales;23  de febrero;driving;Error in distance;True;
+29118256.0;Providencia;Académico;;;2.0;;;Matilde Salamanca ;Valenzuela Castillo ;transit;Error in distance;True;
+29120933.0;;Académico;;;2.0;;;San Carlos de apoquindo;los dominicos;driving;Error in distance;True;
+29121175.0;Santiago;Estudiante;;;2.0;;;General Jofré;Vicuña Mackenna ;transit;Error in distance;True;
+29139029.0;Las Condes;Estudiante;;;2.0;;;duqueco;av francisco bilbao;transit;Error in distance;True;
+29140226.0;Las Condes;Funcionario;;;2.0;;;Manquehue Sur;Cabildo;transit;Error in distance;True;
+29141100.0;Independencia;Académico;;;2.0;;;Gamero;López de Alcázar;transit;Error in distance;True;
+29142379.0;;Funcionario;;Tarapacá;2.0;;;Huantaca;José Francisco Vergara;driving;Error in distance;True;
+29142541.0;Lo Barnechea;Estudiante;;;2.0;;;Camino Real;Pie Andino;transit;Error in distance;True;
+29152213.0;Providencia;Funcionario;;;2.0;;;Av. El Bosque;Lota;driving;Error in distance;True;
+29152388.0;Colina;Académico;;;2.0;;;La rivera;Santa Elena;transit;Error in distance;True;
+29152703.0;Las Condes;Académico;;;2.0;;;Sebastián Elcano;Colón;transit;Error in distance;True;
+29153052.0;Santiago;Estudiante;;;2.0;;;Avenida Portugal;Calle Porvenir;walking;Error in distance;True;
+29114780.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;Alcántara/Martin de Zamora;transit;Not found;False;
+29115382.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;Perú;2.0;;;;;transit;Not found;False;
+29115604.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Exequiel Fernandez;;transit;Not found;False;
+29116304.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;False;
+29116443.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;Región del maule;2.0;;;;;transit;Not found;False;
+29116467.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;False;
+29118407.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;IV región;2.0;;;Guillermo Ulriksen;;transit;Not found;False;
+29121626.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;False;
+29121900.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;False;
+29139338.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Condominio Los Comendadores Lampa;;transit;Not found;False;
+29139512.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Región del maule;2.0;;;;;walking;Not found;False;
+29139918.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;Apoquindo/Alcántara;transit;Not found;False;
+29142089.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VII - Maule;2.0;;;Sol de la peninsula;;transit;Not found;False;
+29152270.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;cerro el paico;;transit;Not found;False;
+29152681.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;XI Aysen del Gral Carlos Ibañez del Campo;2.0;;;Camino x-616 km 1,5 parcela b5 Pampa Pinuer;;transit;Not found;False;
+29114513.0;X Región;Académico;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;Ruta 225 km 20, Puerto Varas;;walking;Not found;True;
+29114599.0;;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;San Juan de Dios;San Pedro;transit;Not found;True;
+29114708.0;Ñuñoa;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29114837.0;;Académico;Campus Oriente UC;;2.0;;;California;Pedro de Valdivia;driving;Not found;True;
+29114940.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;tomas moro;bilbao;transit;Not found;True;
+29114981.0;X Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Putemun;sin numero;transit;Not found;True;
+29114990.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Vergara;tosca;driving;Not found;True;
+29115045.0;Lo Barnechea;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Los trapenses;;transit;Not found;True;
+29115061.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Cerro La Cruz;;transit;Not found;True;
+29115089.0;Lo Barnechea;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29115210.0;X Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Huenao Rural S/N;;walking;Not found;True;
+29115379.0;Isla de Maipo;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;las parcelas;3;transit;Not found;True;
+29115450.0;;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;Pichilemu;2.0;;;Lomas de catrianca;Avenida comercio;transit;Not found;True;
+29115484.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;II Región de Antofagasta, comuna San Pedro de Atacama;2.0;;;ayllu de séquito s/n;Rotonda Sequitor ;transit;Not found;True;
+29115598.0;V Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29115643.0;Colina;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29115702.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;San Vicente;16;transit;Not found;True;
+29115746.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Marquéz de irarrazaval ;Población padre Enrique Geraerts;transit;Not found;True;
+29115772.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Los lirios ;Ada adúnate de Urrutia ;transit;Not found;True;
+29115779.0;Macul;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Froilan Roa;;transit;Not found;True;
+29115845.0;La Reina;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Reina Victoria ;;walking;Not found;True;
+29115850.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Siete;Fermín Vergara;driving;Not found;True;
+29115914.0;Colina;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;El aromo;Santa cecilia;transit;Not found;True;
+29116036.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;magallanes;2.0;;;km 9 sur;carlos gonzales m;transit;Not found;True;
+29116125.0;Peñaflor;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;12 de Septiembre;14 de Julio;transit;Not found;True;
+29116126.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;avenida alto nogales ;machali;transit;Not found;True;
+29116181.0;V Región;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;Las Águilas;Los Alamos;transit;Not found;True;
+29116182.0;Calera de Tango;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;El sauce;Fundo la batalla;transit;Not found;True;
+29116266.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29116294.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;holanda;cervantes;driving;Not found;True;
+29116297.0;Lampa;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Avenida El Rodeo;Avenida El Parque;transit;Not found;True;
+29116299.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VIII región del Biobío, Los Ángeles;2.0;;;Nevados ojos del salado;Pasaje 3 ;transit;Not found;True;
+29116360.0;;Funcionario;Campus Oriente UC;;2.0;;;Curico;San Isidro;transit;Not found;True;
+29116531.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Camino Isla del Guindo s/n;;transit;Not found;True;
+29116557.0;Pirque;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Jose Julio Nieto;Maximo Valdes;transit;Not found;True;
+29116750.0;V Región;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Santa Rosa ;El roble ;transit;Not found;True;
+29116763.0;Buin;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Clemente Diaz;Tarcisio Ernoli;transit;Not found;True;
+29116802.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29116813.0;Recoleta;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29116951.0;Santiago;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;Monjita con Jose Miguel de la Barra;transit;Not found;True;
+29117113.0;Lo Barnechea;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;Av. golf lomas de la dehesa;;transit;Not found;True;
+29118167.0;Peñalolén;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;comunidad ecologica de peñalolen;;driving;Not found;True;
+29118646.0;Lo Barnechea;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;plaza san enrique;;driving;Not found;True;
+29119019.0;;Académico;Campus Oriente UC;;2.0;;;Bustos;Pedro de Valdivia;walking;Not found;True;
+29120119.0;Providencia;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29120961.0;Las Condes;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;Carlos Peña Otaegui con Av San Carlos de Apoquindo;driving;Not found;True;
+29125140.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Moneda;Brasil;driving;Not found;True;
+29125903.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Séptima Región;2.0;;;Isla de Marchant;Ruta J 60 y salida los guindos a mano izquierda hacia adentro;transit;Not found;True;
+29136395.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;Puerto Varas;2.0;;;v-627;Los Alerces;transit;Not found;True;
+29138989.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Americo Vespucio;Francisco de Aguirre;transit;Not found;True;
+29139055.0;V Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Pedro Aguirre Carda;Calle Larga;transit;Not found;True;
+29139058.0;Las Condes;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Avenida apoquindo;;transit;Not found;True;
+29139076.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;La tricahuera ;;walking;Not found;True;
+29139094.0;Peñalolén;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Av. Quilín;;transit;Not found;True;
+29139101.0;Vitacura;Estudiante;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29139191.0;Villarrica;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Camino villarrica-pucon km 4,5 Los Guindos ;Colegio alemán;transit;Not found;True;
+29139346.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29139375.0;Providencia;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29139616.0;;Académico;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;Gerona;Holanda;walking;Not found;True;
+29139622.0;Maipú;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29139988.0;La Florida;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Lenga;;transit;Not found;True;
+29140052.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29140133.0;;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;San Martín ;catedral;transit;Not found;True;
+29140215.0;Calera de Tango;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Camino San Agustín;;driving;Not found;True;
+29140367.0;Santiago;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29140499.0;Paine;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Santa Filomena;Padre Hurtado;transit;Not found;True;
+29140541.0;Providencia;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín; ;2.0;;;;;transit;Not found;True;
+29140910.0;Talagante;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Adrián Soto;Jaime Guzman;transit;Not found;True;
+29141147.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Vitacura;2.0;;;reyes lo arcaya;San Vicente de lo Arcaya;transit;Not found;True;
+29141605.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;algarrobo;2.0;;;la candelaria ;santa teresa;transit;Not found;True;
+29142284.0;Macul;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;Quilín El Líbano;driving;Not found;True;
+29142369.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Los robles 39, condominio los bosques;piedra roja, chicureo;transit;Not found;True;
+29142370.0;Villarrica;Funcionario;Campus Villarrica UC - Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29142583.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Carabineros de Chile;Corvalan Melgarejo;walking;Not found;True;
+29142973.0;Ñuñoa;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Metro Chile España;;transit;Not found;True;
+29144014.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;VIII;2.0;;;Av. Sanhueza;Sanders;transit;Not found;True;
+29144297.0;Lo Barnechea;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;camino el cajon;las acacias;transit;Not found;True;
+29145177.0;Providencia;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;pedro de valdivia con bilbao;walking;Not found;True;
+29148452.0;Padre Hurtado;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Los Remos;Los Ceibos;transit;Not found;True;
+29152039.0;San Bernardo;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;camino el barracón; la capilla;driving;Not found;True;
+29152041.0;Ñuñoa;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;;;transit;Not found;True;
+29152097.0;Providencia;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Guardia Vieja ;;transit;Not found;True;
+29152147.0;Macul;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Vicuña Mackenna ;;transit;Not found;True;
+29152200.0;Pirque;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Exequiel Fontecilla ;Castillo Majadas;transit;Not found;True;
+29152223.0;Las Condes;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;;san carlos de apoquindo;transit;Not found;True;
+29152295.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Los bronces;Fundo Quimavida;transit;Not found;True;
+29152314.0;La Granja;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Vicuña Makena;Cristobal Colón ;transit;Not found;True;
+29152322.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Don Bosco ;Álvarez de Toledo ;transit;Not found;True;
+29152365.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Copihues;Hipolito Irigoyen;transit;Not found;True;
+29152392.0;VI Región;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Santa María;;transit;Not found;True;
+29152412.0;Vitacura;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Talca;2.0;;;nuestra señora del rosario;;transit;Not found;True;
+29152433.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;santa ester;santa marta de liray;transit;Not found;True;
+29152477.0;;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;XIV región de Los Rios;2.0;;;Las azaleas ;Brasil;transit;Not found;True;
+29152525.0;Colina;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Santa Ines de Miraflores;Las Garzas;transit;Not found;True;
+29152529.0;San Miguel;Funcionario;Campus Oriente UC;;2.0;;;Arcadia;San Ignacio de Loyola;transit;Not found;True;
+29152660.0;Las Condes;Académico;Campus Lo Contador Pontificia Universidad Católica de Chile;;2.0;;;;;transit;Not found;True;
+29152675.0;Paine;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Antillas;San vicente ;transit;Not found;True;
+29152820.0;Calera de Tango;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Camino lonquen, paradero 14 condominio santa magdalena ;;driving;Not found;True;
+29152910.0;Ñuñoa;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Pucará;;driving;Not found;True;
+29153222.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Isabel la Católica;Flandes;driving;Not found;True;
+29153704.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;el retiro;con la oración;transit;Not found;True;
+29154278.0;Calera de Tango;Funcionario;Campus Casa Central de la Pontificia Universidad Católica de Chile;;2.0;;;Camino Tanguito;Lonquén;transit;Not found;True;
+29154359.0;Villarrica;Académico;Campus Villarrica UC - Pontificia Universidad Católica de Chile;;2.0;;;Camino Lefún ;Segunda faja al volcán;driving;Not found;True;
+29154566.0;Colina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;Padre sergio correa;guay guay;transit;Not found;True;
+29154682.0;;Académico;Pontificia Universidad Católica de Chile - Campus San Joaquín;;2.0;;;ucrania;isla decepción;driving;Not found;True;
+29154936.0;;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Ñuble, chillan;2.0;;;San miguel de ablemu;San carlos;transit;Not found;True;
+29114538.0;;;;;;;;;;transit;Error in distance;False;
+29114710.0;;;;;;;;;;transit;Error in distance;False;
+29114811.0;;;;;;;;;;transit;Error in distance;False;
+29114825.0;;;;;;;;;;transit;Error in distance;False;
+29114825.0;;;;;;;;;;transit;Error in distance;False;
+29114830.0;;;;;;;;;;transit;Error in distance;False;
+29114830.0;;;;;;;;;;transit;Error in distance;False;
+29114952.0;;;;;;;;;;transit;Error in distance;False;
+29115085.0;;;;;;;;;;walking;Error in distance;False;
+29115085.0;;;;;;;;;;transit;Error in distance;False;
+29115151.0;;;;;;;;;;transit;Error in distance;False;
+29115172.0;;;;;;;;;;transit;Error in distance;False;
+29115203.0;;;;;;;;;;transit;Error in distance;False;
+29115223.0;;;;;;;;;;transit;Error in distance;False;
+29115280.0;;;;;;;;;;transit;Error in distance;False;
+29115494.0;;;;;;;;;;transit;Error in distance;False;
+29115548.0;;;;;;;;;;transit;Error in distance;False;
+29115566.0;;;;;;;;;;transit;Error in distance;False;
+29115599.0;;Estudiante;;;;;;;;transit;Error in distance;False;
+29115635.0;;;;;;;;;;transit;Error in distance;False;
+29115647.0;;;;;;;;;;transit;Error in distance;False;
+29115739.0;;;;;;;;;;transit;Error in distance;False;
+29115823.0;;;;;;;;;;transit;Error in distance;False;
+29115943.0;;;;;;;;;;transit;Error in distance;False;
+29116002.0;;;;;;;;;;transit;Error in distance;False;
+29116028.0;;;;;;;;;;transit;Error in distance;False;
+29116131.0;;;;;;;;;;transit;Error in distance;False;
+29116184.0;;;;;;;;;;transit;Error in distance;False;
+29116668.0;;;;;;;;;;transit;Error in distance;False;
+29116833.0;;;;;;;;;;transit;Error in distance;False;
+29116866.0;;;;;;;;;;transit;Error in distance;False;
+29116896.0;;;;;;;;;;transit;Error in distance;False;
+29117275.0;;;;;;;;;;transit;Error in distance;False;
+29117304.0;;;;;;;;;;transit;Error in distance;False;
+29117584.0;;;;;;;;;;transit;Error in distance;False;
+29118186.0;;;;;;;;;;transit;Error in distance;False;
+29119319.0;;;;;;;;;;transit;Error in distance;False;
+29119349.0;;;;;;;;;;transit;Error in distance;False;
+29119545.0;;Funcionario;;;;;;;;driving;Error in distance;False;
+29120179.0;;;;;;;;;;transit;Error in distance;False;
+29120980.0;;;;;;;;;;transit;Error in distance;False;
+29122230.0;;;;;;;;;;transit;Error in distance;False;
+29124299.0;;;;;;;;;;driving;Error in distance;False;
+29124299.0;;;;;;;;;;transit;Error in distance;False;
+29125588.0;;;;;;;;;;transit;Error in distance;False;
+29127351.0;;;;;;;;;;transit;Error in distance;False;
+29128082.0;;;;;;;;;;transit;Error in distance;False;
+29131314.0;;;;;;;;;;transit;Error in distance;False;
+29138979.0;;;;;;;;;;transit;Error in distance;False;
+29139083.0;;;;;;;;;;transit;Error in distance;False;
+29139119.0;;;;;;;;;;transit;Error in distance;False;
+29139376.0;;;;;;;;;;transit;Error in distance;False;
+29139492.0;;;;;;;;;;transit;Error in distance;False;
+29139640.0;;;;;;;;;;transit;Error in distance;False;
+29139675.0;;;;;;;;;;transit;Error in distance;False;
+29139784.0;;;;;;;;;;transit;Error in distance;False;
+29140311.0;;;;;;;;;;driving;Error in distance;False;
+29140311.0;;;;;;;;;;transit;Error in distance;False;
+29140327.0;;;;;;;;;;transit;Error in distance;False;
+29140327.0;;;;;;;;;;transit;Error in distance;False;
+29140350.0;;;;;;;;;;transit;Error in distance;False;
+29140411.0;;;;;;;;;;driving;Error in distance;False;
+29140411.0;;;;;;;;;;transit;Error in distance;False;
+29140527.0;;;;;;;;;;transit;Error in distance;False;
+29140536.0;;;;;;;;;;transit;Error in distance;False;
+29140536.0;;;;;;;;;;transit;Error in distance;False;
+29141336.0;;;;;;;;;;transit;Error in distance;False;
+29141456.0;;;;;;;;;;transit;Error in distance;False;
+29141712.0;;;;;;;;;;transit;Error in distance;False;
+29141751.0;;;;;;;;;;transit;Error in distance;False;
+29142183.0;;;;;;;;;;transit;Error in distance;False;
+29142320.0;;;;;;;;;;transit;Error in distance;False;
+29142478.0;;;;;;;;;;transit;Error in distance;False;
+29142515.0;;;;;;;;;;transit;Error in distance;False;
+29143253.0;;;;;;;;;;transit;Error in distance;False;
+29143924.0;;;;;;;;;;transit;Error in distance;False;
+29144007.0;;;;;;;;;;transit;Error in distance;False;
+29144040.0;;;;;;;;;;transit;Error in distance;False;
+29144067.0;;;;;;;;;;transit;Error in distance;False;
+29145262.0;;;;;;;;;;transit;Error in distance;False;
+29145367.0;;;;;;;;;;transit;Error in distance;False;
+29146464.0;;Estudiante;;;;;;;;transit;Error in distance;False;
+29147928.0;;;;;;;;;;transit;Error in distance;False;
+29148421.0;;;;;;;;;;transit;Error in distance;False;
+29151483.0;;;;;;;;;;transit;Error in distance;False;
+29152072.0;;;;;;;;;;transit;Error in distance;False;
+29152089.0;;;;;;;;;;transit;Error in distance;False;
+29152156.0;;;;;;;;;;transit;Error in distance;False;
+29152158.0;;;;;;;;;;transit;Error in distance;False;
+29152187.0;;;;;;;;;;transit;Error in distance;False;
+29152189.0;;;;;;;;;;transit;Error in distance;False;
+29152230.0;;;;;;;;;;transit;Error in distance;False;
+29152307.0;;;;;;;;;;transit;Error in distance;False;
+29152311.0;;;;;;;;;;transit;Error in distance;False;
+29152341.0;;;;;;;;;;transit;Error in distance;False;
+29152367.0;;;;;;;;;;transit;Error in distance;False;
+29152577.0;;;;;;;;;;transit;Error in distance;False;
+29152577.0;;;;;;;;;;transit;Error in distance;False;
+29152611.0;;;;;;;;;;transit;Error in distance;False;
+29152685.0;;;;;;;;;;transit;Error in distance;False;
+29152930.0;;;;;;;;;;transit;Error in distance;False;
+29153088.0;;;;;;;;;;transit;Error in distance;False;
+29153562.0;;;;;;;;;;transit;Error in distance;False;
+29154111.0;;;;;;;;;;transit;Error in distance;False;
+29154223.0;;;;;;;;;;transit;Error in distance;False;
+29155109.0;;;;;;;;;;transit;Error in distance;False;
+29155284.0;;;;;;;;;;transit;Error in distance;False;
+29157653.0;;;;;;;;;;transit;Error in distance;False;
+29148335.0;Pudahuel;Estudiante;;;;;;;;transit;Error in distance;True;
+29152068.0;;Académico;Campus Casa Central de la Pontificia Universidad Católica de Chile;;;;;;;transit;Not found;False;
+29114574.0;Las Condes;Académico;Campus Lo Contador Pontificia Universidad Católica de Chile;;;;;;;transit;Not found;True;
+29115054.0;Isla de Maipo;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
+29115641.0;Peñalolén;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
+29116596.0;Peñalolén;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;Av. Hacienda Macul;;;;transit;Not found;True;
+29142464.0;Lo Barnechea;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;driving;Not found;True;
+29142557.0;La Reina;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
+29142644.0;Peñalolén;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;driving;Not found;True;
+29145738.0;Las Condes;Estudiante;Campus Casa Central de la Pontificia Universidad Católica de Chile;;;;;;;transit;Not found;True;
+29152172.0;Las Condes;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;Francia, palaiseau, estoy haciendo un doble diploma;;;;;;transit;Not found;True;
+29152191.0;San Miguel;Funcionario;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
+29152731.0;Puente Alto;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
+29153177.0;Santiago;Estudiante;Pontificia Universidad Católica de Chile - Campus San Joaquín;;;;;;;transit;Not found;True;
